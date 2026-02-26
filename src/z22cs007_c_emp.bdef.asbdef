@@ -1,0 +1,9 @@
+projection;
+strict ( 2 );
+
+define behavior for Z22CS007_C_EMP alias EMP
+{
+  use create;
+  use update;
+  use delete;
+}

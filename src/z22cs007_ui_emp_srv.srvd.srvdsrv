@@ -1,0 +1,4 @@
+@EndUserText.label: 'Employee Service'
+define service Z22CS007_UI_EMP_SRV {
+  expose Z22CS007_C_EMP;
+}
